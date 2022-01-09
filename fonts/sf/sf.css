@@ -1,0 +1,11 @@
+
+
+
+@font-face {
+    font-family: 'sf_pro_roundedregular';
+    src: url('sf-webfont.woff2') format('woff2'),
+         url('sf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
