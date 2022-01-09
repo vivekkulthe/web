@@ -8669,6 +8669,7 @@ h1, h2, h3, h4, h5,
   border-radius: 5px;
   padding: 30px; }
   .page .heading {
+    font-family: 'sf_pro_roundedregular';
     font-weight: 700;
     font-size: 30px;
     margin-bottom: 30px; }
