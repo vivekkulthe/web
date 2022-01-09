@@ -72,10 +72,12 @@ hr {
   overflow: visible; }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'sf_pro_roundedregular';
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 p {
+  font-family: 'sf_pro_roundedregular';
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -89,6 +91,7 @@ abbr[data-original-title] {
   text-decoration-skip-ink: none; }
 
 address {
+  font-family: 'sf_pro_roundedregular';
   margin-bottom: 1rem;
   font-style: normal;
   line-height: inherit; }
@@ -136,6 +139,7 @@ sup {
   top: -.5em; }
 
 a {
+  font-family: 'sf_pro_roundedregular';
   color: #007bff;
   text-decoration: none;
   background-color: transparent; }
@@ -8669,7 +8673,6 @@ h1, h2, h3, h4, h5,
   border-radius: 5px;
   padding: 30px; }
   .page .heading {
-    font-family: 'sf_pro_roundedregular';
     font-weight: 700;
     font-size: 30px;
     margin-bottom: 30px; }
